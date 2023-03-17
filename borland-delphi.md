@@ -8,7 +8,7 @@ caption: 'H Borland Delphi ένα οπτικό περιβάλλον ανάπτυ
 διαχειρίζονται τις εφαρμογές τους. Εισήγαγε τη προσέγγιση RAD στην ανάπτυξη λογισμικού, η οποία επέτρεψε στους προγραμματιστές να δημιουργήσουν γραφικές
 διεπαφές χρήστη (GUI) γρήγορα και εύκολα. '
 year: 1995
-license_url:https://winworldpc.com/product/delphi/2x
+license_url: https://winworldpc.com/product/delphi/2x
 categories:
   - Εργαλεία
 tags:
